@@ -1,0 +1,11 @@
+C:\Users\numan\source\repos\Develop.API\Develop.Core\bin\Debug\net8.0\Develop.Core.deps.json
+C:\Users\numan\source\repos\Develop.API\Develop.Core\bin\Debug\net8.0\Develop.Core.dll
+C:\Users\numan\source\repos\Develop.API\Develop.Core\bin\Debug\net8.0\Develop.Core.pdb
+C:\Users\numan\source\repos\Develop.API\Develop.Core\obj\Debug\net8.0\Develop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\numan\source\repos\Develop.API\Develop.Core\obj\Debug\net8.0\Develop.Core.AssemblyInfoInputs.cache
+C:\Users\numan\source\repos\Develop.API\Develop.Core\obj\Debug\net8.0\Develop.Core.AssemblyInfo.cs
+C:\Users\numan\source\repos\Develop.API\Develop.Core\obj\Debug\net8.0\Develop.Core.csproj.CoreCompileInputs.cache
+C:\Users\numan\source\repos\Develop.API\Develop.Core\obj\Debug\net8.0\Develop.Core.dll
+C:\Users\numan\source\repos\Develop.API\Develop.Core\obj\Debug\net8.0\refint\Develop.Core.dll
+C:\Users\numan\source\repos\Develop.API\Develop.Core\obj\Debug\net8.0\Develop.Core.pdb
+C:\Users\numan\source\repos\Develop.API\Develop.Core\obj\Debug\net8.0\ref\Develop.Core.dll
