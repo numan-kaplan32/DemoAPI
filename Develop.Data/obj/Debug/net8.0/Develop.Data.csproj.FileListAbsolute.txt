@@ -1,0 +1,17 @@
+C:\Users\numan\source\repos\Develop.API\Develop.Data\bin\Debug\net8.0\Develop.Data.deps.json
+C:\Users\numan\source\repos\Develop.API\Develop.Data\bin\Debug\net8.0\Develop.Data.runtimeconfig.json
+C:\Users\numan\source\repos\Develop.API\Develop.Data\bin\Debug\net8.0\Develop.Data.dll
+C:\Users\numan\source\repos\Develop.API\Develop.Data\bin\Debug\net8.0\Develop.Data.pdb
+C:\Users\numan\source\repos\Develop.API\Develop.Data\bin\Debug\net8.0\Develop.Core.dll
+C:\Users\numan\source\repos\Develop.API\Develop.Data\bin\Debug\net8.0\Develop.Core.pdb
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\Develop.Data.csproj.AssemblyReference.cache
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\Develop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\Develop.Data.AssemblyInfoInputs.cache
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\Develop.Data.AssemblyInfo.cs
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\Develop.Data.csproj.CoreCompileInputs.cache
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\Develop..C4E1EA3F.Up2Date
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\Develop.Data.dll
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\refint\Develop.Data.dll
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\Develop.Data.pdb
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\Develop.Data.genruntimeconfig.cache
+C:\Users\numan\source\repos\Develop.API\Develop.Data\obj\Debug\net8.0\ref\Develop.Data.dll
